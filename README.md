@@ -1,7 +1,7 @@
 # weeklyTest6CSS
 
 
-Hosted Link:
+Hosted Link:  https://ankit64s.github.io/weeklyTest6CSS/
 
 Snapshot:
 
